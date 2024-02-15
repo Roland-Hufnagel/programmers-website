@@ -46,8 +46,8 @@ a {
 
 .menu {
   font-size: 22px;
-  /* display: flex;
-  justify-content: space-between; */
+  display: flex;
+  justify-content: space-between;
 }
 
 .menu > li {
