@@ -4,7 +4,7 @@ This is the website of an unknown software developer. We try to give some inform
 
 ## Here is a list of all team members that worked on this project:
 
-<!-- Roland, Kaya, Maria, Tom, Davide, Steffen -->
+Roland, Kaya, Maria, Tom, Davide, Steffen
 
 ## CodeSandbox Cloud
 
