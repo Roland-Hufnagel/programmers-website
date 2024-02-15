@@ -9,6 +9,26 @@ body {
   font-family: system-ui;
 }
 
+img{
+  width: 100%;
+  height: auto;
+}
+
+main {
+  padding: 1em;
+}
+
+section {
+  margin: 2em 0;
+  border: 2px solid #ddd;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.title {
+  text-align: center;
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -26,8 +46,8 @@ a {
 
 .menu {
   font-size: 22px;
-  display: flex;
-  justify-content: space-between;
+  /* display: flex;
+  justify-content: space-between; */
 }
 
 .menu > li {
@@ -37,3 +57,10 @@ a {
 .menu > li:hover {
   text-decoration: underline #ee4c0b 3px;
 }
+
+/* .button {
+  color: white;
+  background-color: cornflowerblue;
+  border-radius: 5px;
+  padding: 5px;
+} */

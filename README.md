@@ -1,28 +1,15 @@
-# CSS Flexbox: Demo End
+# Website of a phantom
 
-This is the final version of the CSS Flexbox demo.
+This is the website of an unknown software developer. We try to give some information without knowing him very well. 
 
-## Notes
+## Here is a list of all team members that worked on this project:
 
-- You find the starting point for this demo in `sessions/css-flexbox/demo-start`
+<!-- Roland, Kaya, Maria, Tom, Davide, Steffen -->
 
-## Development
+## CodeSandbox Cloud
 
-### Local Development
+Sorry, no Codesandbox available for this project.
 
-Run `npm run start` to start a development server and open [localhost:3000](http://localhost:3000) in a browser.
+## Preview
 
-> Alternatively you can use the Live Preview Extension for Visual Studio Code to view this project.  
-> Select the HTML file you want to view, press <kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd>, search for `Live Preview: Show Preview` and confirm with <kbd>Enter</kbd>.
-
-### CodeSandbox Cloud
-
-Select the "Preview: 3000" tab to view this project.
-
-> The `npm run start` script runs automatically.
-
-### Scripts
-
-You can use the following commands:
-
-- `npm run start` to start a development server
+You can see a preview of this project e.g. with Live Server
