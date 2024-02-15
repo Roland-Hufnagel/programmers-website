@@ -9,13 +9,16 @@ body {
   font-family: system-ui;
 }
 
-img{
+img {
   width: 100%;
   height: auto;
+  border-radius: 1em;
 }
 
 main {
   padding: 1em;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 section {
@@ -23,6 +26,9 @@ section {
   border: 2px solid #ddd;
   border-radius: 1em;
   padding: 1em;
+}
+
+h2 {
 }
 
 .title {
@@ -46,8 +52,6 @@ a {
 
 .menu {
   font-size: 22px;
-  display: flex;
-  justify-content: space-between;
 }
 
 .menu > li {
@@ -59,8 +63,4 @@ a {
 }
 
 .button {
-  color: white;
-  background-color: cornflowerblue;
-  border-radius: 5px;
-  padding: 5px;
 }
