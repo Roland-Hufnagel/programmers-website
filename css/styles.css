@@ -27,8 +27,14 @@ section {
   border-radius: 1em;
   padding: 1em;
 }
-
+/* Maria's Task
+Please implement some rules for a nice styling. At least the text should be aligned
+in the center and the font color should be cornflowerblue.
+*/
 h2 {
+  text-align: center;
+  color: cornflowerblue;
+  text-decoration: underline;
 }
 
 .title {
